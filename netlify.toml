@@ -1,6 +1,0 @@
-[build]
-  command = ""  # No build command for static files
-  publish = "/"  # Root directory
-
-[context.production]
-  environment = { NODE_VERSION = "18" }  # Set Node.js version
