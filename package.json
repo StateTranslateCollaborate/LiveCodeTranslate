@@ -1,9 +1,0 @@
-{
-  "name": "livecodetranslate",
-  "version": "1.0.0",
-  "description": "Static site deployment",
-  "scripts": {
-    "build": "echo 'No build needed'"
-  },
-  "dependencies": {}
-}
